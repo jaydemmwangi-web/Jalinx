@@ -1,4 +1,7 @@
-Galaxy Blaster
+   uudg67n
+  hight22dfordexplore 
+  graix4d 
+   Galaxy Blaster
 
 A complete, polished 2D arcade shooter using Pygame
 
